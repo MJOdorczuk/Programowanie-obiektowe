@@ -1,0 +1,6 @@
+c:\users\y70\documents\visual studio 2017\Projects\PO_list2\PO_list2\obj\Debug\PO_list2.csprojResolveAssemblyReference.cache
+c:\users\y70\documents\visual studio 2017\Projects\PO_list2\PO_list2\bin\Debug\PO_list2.exe.config
+c:\users\y70\documents\visual studio 2017\Projects\PO_list2\PO_list2\bin\Debug\PO_list2.exe
+c:\users\y70\documents\visual studio 2017\Projects\PO_list2\PO_list2\bin\Debug\PO_list2.pdb
+c:\users\y70\documents\visual studio 2017\Projects\PO_list2\PO_list2\obj\Debug\PO_list2.exe
+c:\users\y70\documents\visual studio 2017\Projects\PO_list2\PO_list2\obj\Debug\PO_list2.pdb
