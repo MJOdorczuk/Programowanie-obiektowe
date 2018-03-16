@@ -1,0 +1,6 @@
+C:\Users\y70\Desktop\studia\Informatyka\Programowanie obiektowe\List2\List2\bin\Debug\List2.exe.config
+C:\Users\y70\Desktop\studia\Informatyka\Programowanie obiektowe\List2\List2\bin\Debug\List2.exe
+C:\Users\y70\Desktop\studia\Informatyka\Programowanie obiektowe\List2\List2\bin\Debug\List2.pdb
+C:\Users\y70\Desktop\studia\Informatyka\Programowanie obiektowe\List2\List2\obj\Debug\List2.csprojResolveAssemblyReference.cache
+C:\Users\y70\Desktop\studia\Informatyka\Programowanie obiektowe\List2\List2\obj\Debug\List2.exe
+C:\Users\y70\Desktop\studia\Informatyka\Programowanie obiektowe\List2\List2\obj\Debug\List2.pdb
